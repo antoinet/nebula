@@ -1,3 +1,4 @@
+```
 level06@nebula:/tmp$ grep flag06 /etc/passwd
 flag06:ueqwOCnSGdsuM:993:993::/home/flag06:/bin/sh
 level06@nebula:/tmp$ wget http://www.openwall.com/passwords/wordlists/password-2011.lst
@@ -31,3 +32,5 @@ level06@nebula:/tmp$ su flag06
 Password:
 sh-4.2$ getflag
 You have successfully executed getflag on a target account
+
+```

@@ -1,3 +1,4 @@
+```
 level12@nebula:~$ telnet localhost 50001
 Trying 127.0.0.1...
 Connected to localhost.
@@ -16,3 +17,5 @@ drwx------ 2 root   root   100 2016-06-07 16:18 vmware-root
 drwxrwxrwt 2 root   root    40 2016-06-07 16:18 .X11-unix
 level12@nebula:~$ cat /tmp/blip
 You have successfully executed getflag on a target account
+
+```

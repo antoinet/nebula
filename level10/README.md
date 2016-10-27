@@ -1,3 +1,4 @@
+```
 level10@nebula:/home/flag10$ cat << EOF > /tmp/flag10.py
 > #!/usr/bin/env python
 > 
@@ -32,3 +33,5 @@ level10@nebula:/home/flag10$ su flag10
 Password:
 sh-4.2$ getflag
 You have successfully executed getflag on a target account
+
+```

